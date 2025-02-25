@@ -44,9 +44,9 @@ $inspections = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#000000">
-    <meta name="description" content="PONTI platform">
+    <meta name="description" content="PLACE platform">
     <meta name="author" content="Federica Gaspari">
-    <title>PONTI | Inspection History</title>
+    <title>PLACE | Inspection History</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
